@@ -1,1 +1,3 @@
 # HotelJEE
+
+** Projet de classe **
